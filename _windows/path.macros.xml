@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\slack\.m2\repository" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\slack\Downloads\ideaIC-2017.2.6.win\plugins\Kotlin\kotlinc" />
+  </component>
+</application>
